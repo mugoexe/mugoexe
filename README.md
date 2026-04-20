@@ -2,8 +2,11 @@
 <h3 title="hehehe"> Hey 👋, I'm MUGO!</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Developer;System+Builder;Future+Engineer;No+Excuses)
-<a href="https://www.linkedin.com/in/esinoruc/">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="/>
+
+<a href="www.linkedin.com/in/
+muharrem-ünal-6331632b7
+">
+<img align="left" alt="Jaskirat's LinkedIn" width="24px" src="/>
 </a>
 <a href="https://www.instagram.com/print.mugo/">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
