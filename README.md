@@ -1,4 +1,4 @@
-<h1 align="center">MUGO ⚡</h1>
+<h1 align="center">MUGOEXE ⚡⚡⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Developer;System+Architect;Future+Engineer;Building+My+Own+Empire;No+Excuses" />
