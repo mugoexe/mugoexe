@@ -2,7 +2,7 @@
 <h3 title="hehehe"> Hey 👋, I'm MUGO!</h3>
 
 <a href="https://www.linkedin.com/in/esinoruc/">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://www.linkedin.com/in/muharrem-%C3%BCnal-6331632b7/"/>
+  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="/>
 </a>
 <a href="https://www.instagram.com/print.mugo/">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
